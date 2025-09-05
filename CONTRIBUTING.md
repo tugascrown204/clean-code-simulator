@@ -10,7 +10,7 @@ Thank you for your interest in contributing to the Clean Code Simulator! Here ar
 5. Open a pull request to the main repository.
 
 ## Code of Conduct
-Please follow the [Code of Conduct](CODE_OF_CONDUCT.md) in all interactions.
+Please ensure that you read and follow the [Code of Conduct](CODE_OF_CONDUCT.md) in all interactions.
 
 ## Questions
 If you have any questions, feel free to open an issue or contact us directly.
